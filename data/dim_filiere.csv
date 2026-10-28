@@ -1,0 +1,21 @@
+code_filiere,nom_filiere,ufr,filiere_parente,semestre_bifurcation,niveau_terminal,ratio_F
+MPCI,"Mathématiques, Physique, Chimie, Informatique",ST,,,L2,0.28
+HYDRO,Hydrologie,ST,,,L2,0.35
+LIME_LISE,Licence Méthodes & Sciences de l'Eau,ST,,,L2,0.38
+ECO_GES,Économie et Gestion (tronc commun),SEG,,,L2,0.28
+DROIT,Droit (tronc commun L1-L2),SJP,,,L2,0.45
+MATH_L3,Mathématiques L3,ST,MPCI,S5,L3,0.3
+PHYS_L3,Physique L3,ST,MPCI,S5,L3,0.26
+INFO_L3,Informatique L3,ST,MPCI,S5,L3,0.24
+CHIM_L3,Chimie L3,ST,MPCI,S5,L3,0.42
+HYDRO_L3,Hydrologie L3,ST,HYDRO,S5,L3,0.35
+LISE_L3,LIME-LISE L3,ST,LIME_LISE,S5,L3,0.38
+L3_EEDD,Économie Environnement & Dév. Durable,SEG,ECO_GES,S5,L3,0.35
+L3_EASA,Économie Agricole & Sécurité Alimentaire,SEG,ECO_GES,S5,L3,0.3
+L3_MGD,Macroéconomie & Gestion du Développement,SEG,ECO_GES,S5,L3,0.28
+L3_EGEO,Économie & Gestion des Entreprises,SEG,ECO_GES,S5,L3,0.27
+L3_SG,Licence Professionnelle Sciences de Gestion,SEG,ECO_GES,S5,L3,0.3
+L3_DROIT_PRIVE,Droit Privé L3,SJP,DROIT,S5,L3,0.48
+L3_DROIT_PUBLIC,Droit Public L3,SJP,DROIT,S5,L3,0.42
+L3_SCI_PO,Sciences Politiques L3,SJP,DROIT,S5,L3,0.4
+L3_ADMIN_PUB,Administration Publique L3,SJP,DROIT,S5,L3,0.38
